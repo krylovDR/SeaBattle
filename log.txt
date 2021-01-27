@@ -1,0 +1,1891 @@
+/127.0.0.1
+49269
+Wait to the packet
+/127.0.0.1
+49466
+Free room found
+/127.0.0.1
+49466
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+49269
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49466
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49269
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+49466
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49269
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+49466
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49269
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49269
+/127.0.0.1
+49269
+/127.0.0.1
+49466
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+56560
+Wait to the packet
+/127.0.0.1
+56563
+Wait to the packet
+/127.0.0.1
+56566
+Free room found
+/127.0.0.1
+56566
+Second player is connected
+/127.0.0.1
+56567
+Free room found
+/127.0.0.1
+56567
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+56560
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56566
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+56563
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56567
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56560
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+56566
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56563
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+56567
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56560
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+56566
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+56566
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56560
+/127.0.0.1
+56560
+/127.0.0.1
+56566
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+56567
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+56563
+/127.0.0.1
+56563
+/127.0.0.1
+56567
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+62628
+Wait to the packet
+/127.0.0.1
+62630
+Free room found
+/127.0.0.1
+62630
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+62628
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+62630
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+62628
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+62630
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+62628
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+62630
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+62630
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+62628
+/127.0.0.1
+62628
+/127.0.0.1
+62630
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+61729
+Wait to the packet
+/127.0.0.1
+52083
+Wait to the packet
+/127.0.0.1
+52086
+Free room found
+/127.0.0.1
+52086
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+52083
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+52086
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+52083
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+52086
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+52083
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+52083
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+52086
+/127.0.0.1
+52083
+/127.0.0.1
+52086
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+60588
+Wait to the packet
+/127.0.0.1
+50182
+Free room found
+/127.0.0.1
+50182
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+60588
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+50182
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60588
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+50182
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60588
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+50182
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60588
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+50182
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+50182
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60588
+/127.0.0.1
+60588
+/127.0.0.1
+50182
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+50621
+Wait to the packet
+/127.0.0.1
+54715
+Wait to the packet
+/127.0.0.1
+60846
+Wait to the packet
+/127.0.0.1
+63978
+Wait to the packet
+/127.0.0.1
+63215
+Wait to the packet
+/127.0.0.1
+58616
+Free room found
+/127.0.0.1
+58616
+Second player is connected
+/127.0.0.1
+49757
+Wait to the packet
+/127.0.0.1
+60752
+Wait to the packet
+/127.0.0.1
+60755
+Free room found
+/127.0.0.1
+60755
+Second player is connected
+/127.0.0.1
+60758
+Free room found
+/127.0.0.1
+60758
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+49757
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+60752
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60755
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60758
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49757
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60752
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60755
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60758
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and missed
+Sending packet to first player
+Sending packet to first player is done
+First man missed
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49757
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60752
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60755
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60758
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60758
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+60755
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+60752
+/127.0.0.1
+60752
+/127.0.0.1
+60758
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+49757
+/127.0.0.1
+49757
+/127.0.0.1
+60755
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+50807
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+50807
+/127.0.0.1
+50807
+/127.0.0.1
+0
+/127.0.0.1
+61540
+Wait to the packet
+/127.0.0.1
+53748
+Wait to the packet
+/127.0.0.1
+50871
+Wait to the packet
+/127.0.0.1
+50873
+Free room found
+/127.0.0.1
+50873
+Second player is connected
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+50871
+/127.0.0.1
+50871
+/127.0.0.1
+50873
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+55328
+Wait to the packet
+/127.0.0.1
+55331
+Free room found
+/127.0.0.1
+55331
+Second player is connected
+The packet received
+Packet with level received
+Level coped
+This is first man's level
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with level received
+Level coped
+This is second man's level
+Both players are ready, because of received levels
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and hit
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+Second man shoot
+and missed
+Sending packet to second player
+Sending packet to second player is done
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with shot received
+First man shoot
+and hit
+Sending packet to first player
+Sending packet to first player is done
+Sending packet to second player
+Sending packet to second player is done
+All ships are destroyed
+Sending packet to first player
+Sending packet to first player is done
+First man victory
+Sending packet to second player
+Sending packet to second player is done
+Second man defeated
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+First player leave
+Sending packet to second player
+Sending packet to second player is done
+******************************************
+55328
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+The packet received
+Packet with QUIT action received
+Second player leave
+Sending packet to first player
+Sending packet to first player is done
+******************************************
+55331
+/127.0.0.1
+55328
+/127.0.0.1
+55331
+/127.0.0.1
+******************************************
+Wait to the packet
+/127.0.0.1
+62593
+Wait to the packet
